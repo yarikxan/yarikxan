@@ -2,9 +2,6 @@
 
 - Currently learning: Python, FastAPI, Ruby on Rails
 
-![Codewars](https://github.r2v.ch/codewars?user=synthematik&theme=gradient)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
