@@ -21,10 +21,4 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarikxan&show_icons=true&locale=en&layout=compact" alt="yarikxan" />
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yarikxan&show_icons=true&locale=en" alt="yarikxan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yarikxan&" alt="yarikxan" /></p>
