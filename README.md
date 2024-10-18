@@ -7,18 +7,14 @@
   <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="nonreferrer">
-    <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="1093" height="977" version="1">
-    </svg>
+  <a href="https://react.dev" target="_blank" rel="nonreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com" target="_blank" rel="nonreferrer">
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://expressjs.com" target="_blank" rel="nonreferrer">
+    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="nonreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -26,9 +22,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synthematik&show_icons=true&locale=en&layout=compact" alt="synthematik" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarikxan&show_icons=true&locale=en&layout=compact" alt="yarikxan" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synthematik&show_icons=true&locale=en" alt="synthematik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yarikxan&show_icons=true&locale=en" alt="yarikxan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synthematik&" alt="synthematik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yarikxan&" alt="yarikxan" /></p>
